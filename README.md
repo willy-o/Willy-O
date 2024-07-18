@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Willy-O
 - 👀 I’m interested in Intelligent Artificial and Machine Learning
-- 🌱 I’m currently performance web especialist and JS fullstack developer
+- 🌱 I’m currently performance web especialist, python, and JS fullstack developer
 
 <!---
 - 📫 How to reach me: 
